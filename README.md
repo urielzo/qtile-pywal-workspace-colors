@@ -3,8 +3,11 @@ Qtile, Pywal &amp; script to change colors on the fly.
 
 ## Preview
 
-## fantasy-artwork
-![fantasy-artwork](/preview/fantasy-artwork.png)
+## workspaces-active
+![workspaces-active](/preview/workspaces-active.png)
+<br />
+## workspaces-inactive
+![workspaces-inactive](/preview/workspaces-inactive.png)
 
 
 * Distro: [ArchLabs](https://archlabslinux.com/)
